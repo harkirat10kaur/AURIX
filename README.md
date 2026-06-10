@@ -67,9 +67,3 @@ node setup_db.js
 ```
 node server.js
 ```
-
----
-
-## Author
-
-Harkirat Kaur
